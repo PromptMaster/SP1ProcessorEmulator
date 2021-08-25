@@ -36,7 +36,7 @@ SP1 supports 16-bit fixed instructions as specified below:
 
 +--------------------+---------------------+
 
-|      (opcode)      |       (operand)     |
+|......(opcode)......|.......(operand).....|
 
 +--------------------+---------------------+
 
