@@ -1,0 +1,2 @@
+# SP1ProcessorEmulator
+The SP1 is a Hipotetical processor with academic means only. It has three registers of 8 bits (1 byte) each: acc (accumulator), stat (status) and pc (program counter). The processor's ISA is made of 16 instructions. The instructions format is fixed, in this case 16 bits (8 bits for the opcode and 8 bits for teh operand). The stat register keeps informations about carry, overflow and acc's register zero.
