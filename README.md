@@ -1,6 +1,7 @@
 # SP1ProcessorEmulator
 
 1 - Compile the program 
+
 2 - On runtime specify on the command line the .bin file to be executed.
 Example:
 ./SP1 file.bin
