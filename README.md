@@ -106,11 +106,17 @@ STAT Register:
 
 
 STAT (8 bits)
-+----------+
-|-xxxxxOCZ-|
-+----------+
-O == Overflow
-C == Carry
-Z == ACC Zero
-x == not used
 
++----------+
+
+|-xxxxxOCZ-|
+
++----------+
+
+O == Overflow
+
+C == Carry
+
+Z == ACC Zero
+
+x == not used
