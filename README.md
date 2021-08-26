@@ -10,7 +10,7 @@ Example:
 
 General:
 
-The SP1 is a hypothetical processor for academic means only. It has three registers, each one with 8 bits (1 byte): 
+SP1 is a hypothetical processor with a purely academic purpose. It has three registers, each one with 8 bits (1 byte): 
 acc (accumulator), stat (status) and pc (program counter). The processor's ISA is made of 16 instructions. 
 The instructions format is fixed, in this case 16 bits (8 bits for the opcode and 8 bits for the operand). 
 The stat register keeps informations about carry, overflow and acc's register zero.
