@@ -1,3 +1,7 @@
+//SP1Emulator
+//Author: Denis Rezende aka PromptMaster
+//Date: Aug-2021
+
 #include <stdio.h>
 
 typedef unsigned char byte;
