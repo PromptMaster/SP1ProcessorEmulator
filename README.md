@@ -99,3 +99,18 @@ jz------------13(00001101)
 jnz-----------14(00001110)
 
 hlt-----------15(00001111)-------End of program
+
+
+
+STAT Register:
+
+
+STAT (8 bits)
++----------+
+|-xxxxxOCZ-|
++----------+
+O == Overflow
+C == Carry
+Z == ACC Zero
+x == not used
+
